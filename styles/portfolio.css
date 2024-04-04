@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    align-items: center;
+    text-align: center;
+    color: wheat;
+}
+
+h3 {
+    background-color: tan;
+    padding: 15px 21px;
+    margin: 20px 300px;
+    color: slategrey;
+}
