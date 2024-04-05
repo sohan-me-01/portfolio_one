@@ -1,18 +1,16 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: "opne"
 }
 
-h1 {
-    align-items: center;
-    text-align: center;
-    color: wheat;
+nav {
+    display: flex;
+    justify-content: space-between;
 }
 
-h3 {
-    background-color: tan;
-    padding: 15px 21px;
-    margin: 20px 300px;
-    color: slategrey;
+#dekstop-nav {
+    font-size: 32px;
+    padding: 23px 23px;
+    font-weight: bolder;
 }
